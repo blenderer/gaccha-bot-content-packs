@@ -1,0 +1,1808 @@
+{
+  "name": "smashUltimate",
+  "items": [
+    {
+      "name": "Alph"
+    },
+    {
+      "name": "Alph (Brittany)"
+    },
+    {
+      "name": "Alph (Charlie)"
+    },
+    {
+      "name": "Alph (Olimar)"
+    },
+    {
+      "name": "Banjo & Kazooie"
+    },
+    {
+      "name": "Banjo & Kazooie (Boggy)"
+    },
+    {
+      "name": "Banjo & Kazooie (Bottles)"
+    },
+    {
+      "name": "Banjo & Kazooie (Gruntilda)"
+    },
+    {
+      "name": "Banjo & Kazooie (Nuts & Bolts)"
+    },
+    {
+      "name": "Banjo & Kazooie (Split-Up Pads)"
+    },
+    {
+      "name": "Banjo & Kazooie (Squawkmatch)"
+    },
+    {
+      "name": "Banjo & Kazooie (Tooty)"
+    },
+    {
+      "name": "Bayonetta (Anarchy Reigns Blue)"
+    },
+    {
+      "name": "Bayonetta (Anarchy Reigns Green)"
+    },
+    {
+      "name": "Bayonetta (Bayonetta 1)"
+    },
+    {
+      "name": "Bayonetta (Bayonetta 2)"
+    },
+    {
+      "name": "Bayonetta (Jeanne)"
+    },
+    {
+      "name": "Bayonetta (White)"
+    },
+    {
+      "name": "Bayonetta (Yellow)"
+    },
+    {
+      "name": "Bayonetta (Young Pink)"
+    },
+    {
+      "name": "Bowser"
+    },
+    {
+      "name": "Bowser (Giga Bowser)"
+    },
+    {
+      "name": "Bowser (Goth)"
+    },
+    {
+      "name": "Bowser (Lost Levels Blue)"
+    },
+    {
+      "name": "Bowser (Mario Golf Green)"
+    },
+    {
+      "name": "Bowser (Mario Golf Red)"
+    },
+    {
+      "name": "Bowser (Morton Grey)"
+    },
+    {
+      "name": "Bowser (Super Saiyan)"
+    },
+    {
+      "name": "Bowser Jr."
+    },
+    {
+      "name": "Bowser Jr. (Iggy)"
+    },
+    {
+      "name": "Bowser Jr. (Larry)"
+    },
+    {
+      "name": "Bowser Jr. (Lemmy)"
+    },
+    {
+      "name": "Bowser Jr. (Ludwig)"
+    },
+    {
+      "name": "Bowser Jr. (Morton)"
+    },
+    {
+      "name": "Bowser Jr. (Roy)"
+    },
+    {
+      "name": "Bowser Jr. (Wendy)"
+    },
+    {
+      "name": "Captain Falcon"
+    },
+    {
+      "name": "Captain Falcon (Blood Falcon)"
+    },
+    {
+      "name": "Captain Falcon (Cyan)"
+    },
+    {
+      "name": "Captain Falcon (Dr. Stewart)"
+    },
+    {
+      "name": "Captain Falcon (F-Zero X)"
+    },
+    {
+      "name": "Captain Falcon (Jody Summer)"
+    },
+    {
+      "name": "Captain Falcon (Throwback)"
+    },
+    {
+      "name": "Captain Falcon (Wild Goose)"
+    },
+    {
+      "name": "Chrom"
+    },
+    {
+      "name": "Chrom (Black)"
+    },
+    {
+      "name": "Chrom (Cyan)"
+    },
+    {
+      "name": "Chrom (Kellam)"
+    },
+    {
+      "name": "Chrom (Owain)"
+    },
+    {
+      "name": "Chrom (Stahl)"
+    },
+    {
+      "name": "Chrom (Walhart)"
+    },
+    {
+      "name": "Chrom (Yen'fay)"
+    },
+    {
+      "name": "Cloud (2nd-Class)"
+    },
+    {
+      "name": "Cloud (3rd-Class)"
+    },
+    {
+      "name": "Cloud (Advent Purple)"
+    },
+    {
+      "name": "Cloud (Advent Torn)"
+    },
+    {
+      "name": "Cloud (Advent)"
+    },
+    {
+      "name": "Cloud (Brown)"
+    },
+    {
+      "name": "Cloud (FF7)"
+    },
+    {
+      "name": "Cloud (Zack Fair)"
+    },
+    {
+      "name": "Corrin (Blue Male)"
+    },
+    {
+      "name": "Corrin (Female)"
+    },
+    {
+      "name": "Corrin (Green Male)"
+    },
+    {
+      "name": "Corrin (Male)"
+    },
+    {
+      "name": "Corrin (Nohr Noble)"
+    },
+    {
+      "name": "Corrin (Orange Female)"
+    },
+    {
+      "name": "Corrin (Saizo)"
+    },
+    {
+      "name": "Corrin (Valla)"
+    },
+    {
+      "name": "Daisy"
+    },
+    {
+      "name": "Daisy (Maid)"
+    },
+    {
+      "name": "Daisy (Mario Tennis)"
+    },
+    {
+      "name": "Daisy (NES Golf Peach)"
+    },
+    {
+      "name": "Daisy (NES Golf)"
+    },
+    {
+      "name": "Daisy (SMB2/3 Peach)"
+    },
+    {
+      "name": "Daisy (Traditional Dress)"
+    },
+    {
+      "name": "Daisy (Wedding)"
+    },
+    {
+      "name": "Dark Pit"
+    },
+    {
+      "name": "Dark Pit (Blue)"
+    },
+    {
+      "name": "Dark Pit (Green)"
+    },
+    {
+      "name": "Dark Pit (Magnus)"
+    },
+    {
+      "name": "Dark Pit (Pit)"
+    },
+    {
+      "name": "Dark Pit (Purple)"
+    },
+    {
+      "name": "Dark Pit (Red)"
+    },
+    {
+      "name": "Dark Pit (Yellow)"
+    },
+    {
+      "name": "Dark Samus (Gandrayda)"
+    },
+    {
+      "name": "Dark Samus (Golden Torizo)"
+    },
+    {
+      "name": "Dark Samus (Green)"
+    },
+    {
+      "name": "Dark Samus (Metroid Prime 2: Echoes concept)"
+    },
+    {
+      "name": "Dark Samus (Metroid Prime 3: Corruption)"
+    },
+    {
+      "name": "Dark Samus (Orange Phazon)"
+    },
+    {
+      "name": "Dark Samus (Pink)"
+    },
+    {
+      "name": "Dark Samus (Red)"
+    },
+    {
+      "name": "Diddy Kong"
+    },
+    {
+      "name": "Diddy Kong (DK 64 alt)"
+    },
+    {
+      "name": "Diddy Kong (DK Country 2: alt)"
+    },
+    {
+      "name": "Diddy Kong (DK Country alt)"
+    },
+    {
+      "name": "Diddy Kong (Dixie Kong)"
+    },
+    {
+      "name": "Diddy Kong (Donkey Kong Jr. Math)"
+    },
+    {
+      "name": "Diddy Kong (Kiddy Kong)"
+    },
+    {
+      "name": "Diddy Kong (Yellow)"
+    },
+    {
+      "name": "Donkey Kong"
+    },
+    {
+      "name": "Donkey Kong (DK 64 alt)"
+    },
+    {
+      "name": "Donkey Kong (Donkey Kong Country alt)"
+    },
+    {
+      "name": "Donkey Kong (Donkey Kong Jr Math)"
+    },
+    {
+      "name": "Donkey Kong (King of Swing)"
+    },
+    {
+      "name": "Donkey Kong (Mario Golf Yellow)"
+    },
+    {
+      "name": "Donkey Kong (Old School)"
+    },
+    {
+      "name": "Donkey Kong (Yeti DK)"
+    },
+    {
+      "name": "Dr. Mario"
+    },
+    {
+      "name": "Dr. Mario (Blue)"
+    },
+    {
+      "name": "Dr. Mario (Green)"
+    },
+    {
+      "name": "Dr. Mario (Nurse Toadstool)"
+    },
+    {
+      "name": "Dr. Mario (Purple)"
+    },
+    {
+      "name": "Dr. Mario (Red)"
+    },
+    {
+      "name": "Dr. Mario (Unlicensed Doctor)"
+    },
+    {
+      "name": "Dr. Mario (Yellow)"
+    },
+    {
+      "name": "Duck Hunt"
+    },
+    {
+      "name": "Duck Hunt (Beagle)"
+    },
+    {
+      "name": "Duck Hunt (Border Collie)"
+    },
+    {
+      "name": "Duck Hunt (Dalmation)"
+    },
+    {
+      "name": "Duck Hunt (Labrador)"
+    },
+    {
+      "name": "Duck Hunt (NES Yellow)"
+    },
+    {
+      "name": "Duck Hunt (Orpington Duck)"
+    },
+    {
+      "name": "Duck Hunt (Saxony Duck)"
+    },
+    {
+      "name": "Falco"
+    },
+    {
+      "name": "Falco (Blue)"
+    },
+    {
+      "name": "Falco (Dark)"
+    },
+    {
+      "name": "Falco (Green)"
+    },
+    {
+      "name": "Falco (Pink)"
+    },
+    {
+      "name": "Falco (Star Fox 64)"
+    },
+    {
+      "name": "Falco (Star Fox: Assault)"
+    },
+    {
+      "name": "Falco (White)"
+    },
+    {
+      "name": "Fox"
+    },
+    {
+      "name": "Fox (Dark)"
+    },
+    {
+      "name": "Fox (Falco)"
+    },
+    {
+      "name": "Fox (Star Fox: Assault P1)"
+    },
+    {
+      "name": "Fox (Star Fox: Assault P3)"
+    },
+    {
+      "name": "Fox (Star Fox: Assault P4)"
+    },
+    {
+      "name": "Fox (White)"
+    },
+    {
+      "name": "Fox (Wolf)"
+    },
+    {
+      "name": "Ganondorf (Grandpadorf)"
+    },
+    {
+      "name": "Ganondorf (Green)"
+    },
+    {
+      "name": "Ganondorf (Link to the Past)"
+    },
+    {
+      "name": "Ganondorf (Ocarina of Time)"
+    },
+    {
+      "name": "Ganondorf (Purple)"
+    },
+    {
+      "name": "Ganondorf (Twilight Princess)"
+    },
+    {
+      "name": "Ganondorf (Violet)"
+    },
+    {
+      "name": "Ganondorf (Wind Waker)"
+    },
+    {
+      "name": "Greninja"
+    },
+    {
+      "name": "Greninja (Green)"
+    },
+    {
+      "name": "Greninja (Grey)"
+    },
+    {
+      "name": "Greninja (Lickilicky)"
+    },
+    {
+      "name": "Greninja (Purple)"
+    },
+    {
+      "name": "Greninja (Red)"
+    },
+    {
+      "name": "Greninja (Shiny Ash-Greninja)"
+    },
+    {
+      "name": "Greninja (Violet)"
+    },
+    {
+      "name": "Hero (Eight Blue)"
+    },
+    {
+      "name": "Hero (Eight)"
+    },
+    {
+      "name": "Hero (Erdrick White)"
+    },
+    {
+      "name": "Hero (Erdrick)"
+    },
+    {
+      "name": "Hero (Luminary Red)"
+    },
+    {
+      "name": "Hero (Luminary)"
+    },
+    {
+      "name": "Hero (Solo Orange)"
+    },
+    {
+      "name": "Hero (Solo)"
+    },
+    {
+      "name": "Ice Climbers"
+    },
+    {
+      "name": "Ice Climbers (Brown)"
+    },
+    {
+      "name": "Ice Climbers (Frosty)"
+    },
+    {
+      "name": "Ice Climbers (Green)"
+    },
+    {
+      "name": "Ice Climbers (Indigo)"
+    },
+    {
+      "name": "Ice Climbers (Injured)"
+    },
+    {
+      "name": "Ice Climbers (Orange)"
+    },
+    {
+      "name": "Ice Climbers (US box-art)"
+    },
+    {
+      "name": "Ike (Black Knight)"
+    },
+    {
+      "name": "Ike (Geoffrey)"
+    },
+    {
+      "name": "Ike (Greil)"
+    },
+    {
+      "name": "Ike (Hero)"
+    },
+    {
+      "name": "Ike (Purple)"
+    },
+    {
+      "name": "Ike (Ranger)"
+    },
+    {
+      "name": "Ike (Red)"
+    },
+    {
+      "name": "Ike (Sigurd)"
+    },
+    {
+      "name": "Incineroar"
+    },
+    {
+      "name": "Incineroar (Blue)"
+    },
+    {
+      "name": "Incineroar (Green)"
+    },
+    {
+      "name": "Incineroar (Infernape)"
+    },
+    {
+      "name": "Incineroar (Litten)"
+    },
+    {
+      "name": "Incineroar (Purple)"
+    },
+    {
+      "name": "Incineroar (Salandit)"
+    },
+    {
+      "name": "Incineroar (Shiny)"
+    },
+    {
+      "name": "Inkling (Agent 3)"
+    },
+    {
+      "name": "Inkling (Female)"
+    },
+    {
+      "name": "Inkling (Hipster)"
+    },
+    {
+      "name": "Inkling (Male)"
+    },
+    {
+      "name": "Inkling (School Uniform)"
+    },
+    {
+      "name": "Inkling (Skate Helmet)"
+    },
+    {
+      "name": "Inkling (Skull Bandana)"
+    },
+    {
+      "name": "Inkling (Takoroka Mesh)"
+    },
+    {
+      "name": "Isabelle (Bunny Day)"
+    },
+    {
+      "name": "Isabelle (Digby)"
+    },
+    {
+      "name": "Isabelle (Happy Home)"
+    },
+    {
+      "name": "Isabelle (Labor Day)"
+    },
+    {
+      "name": "Isabelle (Summer)"
+    },
+    {
+      "name": "Isabelle (Tom Nook)"
+    },
+    {
+      "name": "Isabelle (Winter Solstice)"
+    },
+    {
+      "name": "Isabelle (Winter)"
+    },
+    {
+      "name": "Jigglypuff"
+    },
+    {
+      "name": "Jigglypuff (Bow)"
+    },
+    {
+      "name": "Jigglypuff (Bug Catcher)"
+    },
+    {
+      "name": "Jigglypuff (Flower)"
+    },
+    {
+      "name": "Jigglypuff (Kirby Sleep Cap)"
+    },
+    {
+      "name": "Jigglypuff (Leaf)"
+    },
+    {
+      "name": "Jigglypuff (Pokemon Center Nurse)"
+    },
+    {
+      "name": "Jigglypuff (Serena)"
+    },
+    {
+      "name": "Joker"
+    },
+    {
+      "name": "Joker (Goro Akechu)"
+    },
+    {
+      "name": "Joker (Persona 3)"
+    },
+    {
+      "name": "Joker (Persona 4)"
+    },
+    {
+      "name": "Joker (Persona 5)"
+    },
+    {
+      "name": "Joker (Revelations: Persona)"
+    },
+    {
+      "name": "Joker (School Uniform)"
+    },
+    {
+      "name": "Joker (Summer Uniform)"
+    },
+    {
+      "name": "Ken"
+    },
+    {
+      "name": "Ken (Fierce)"
+    },
+    {
+      "name": "Ken (Forward)"
+    },
+    {
+      "name": "Ken (Jab)"
+    },
+    {
+      "name": "Ken (Short)"
+    },
+    {
+      "name": "Ken (Start Button)"
+    },
+    {
+      "name": "Ken (Strong)"
+    },
+    {
+      "name": "Ken (Violent Ken)"
+    },
+    {
+      "name": "King Dedede"
+    },
+    {
+      "name": "King Dedede (Air Ride Great Penuin)"
+    },
+    {
+      "name": "King Dedede (Air Ride Kimono)"
+    },
+    {
+      "name": "King Dedede (Air Ride Seigaiha)"
+    },
+    {
+      "name": "King Dedede (Game Boy)"
+    },
+    {
+      "name": "King Dedede (Kirby 64 Menu)"
+    },
+    {
+      "name": "King Dedede (The Crystal Shards)"
+    },
+    {
+      "name": "King Dedede (Waddle Dee)"
+    },
+    {
+      "name": "King K. Rool"
+    },
+    {
+      "name": "King K. Rool (Black Kritters)"
+    },
+    {
+      "name": "King K. Rool (DK: King of Swing)"
+    },
+    {
+      "name": "King K. Rool (Krusha)"
+    },
+    {
+      "name": "King K. Rool (Kutlass)"
+    },
+    {
+      "name": "King K. Rool (Re-Koil)"
+    },
+    {
+      "name": "King K. Rool (Skidda)"
+    },
+    {
+      "name": "King K. Rool (White)"
+    },
+    {
+      "name": "Kirby"
+    },
+    {
+      "name": "Kirby (Fire Kirby)"
+    },
+    {
+      "name": "Kirby (Game Boy)"
+    },
+    {
+      "name": "Kirby (Ice Kirby)"
+    },
+    {
+      "name": "Kirby (Keeby)"
+    },
+    {
+      "name": "Kirby (Meta Knight Unmasked)"
+    },
+    {
+      "name": "Kirby (Plasma Kirby)"
+    },
+    {
+      "name": "Kirby (Suplex Kirby)"
+    },
+    {
+      "name": "Link (Champion's Tunic)"
+    },
+    {
+      "name": "Link (Dark Link)"
+    },
+    {
+      "name": "Link (Fierce Deity)"
+    },
+    {
+      "name": "Link (Hero of the Wild)"
+    },
+    {
+      "name": "Link (Hylian Tunic)"
+    },
+    {
+      "name": "Link (Royal Guard)"
+    },
+    {
+      "name": "Link (Skyward Sword)"
+    },
+    {
+      "name": "Link (Twilight Princess)"
+    },
+    {
+      "name": "Little Mac (Defense Mode)"
+    },
+    {
+      "name": "Little Mac (Punch-Out: Wii)"
+    },
+    {
+      "name": "Little Mac (Super Punch-Out)"
+    },
+    {
+      "name": "Little Mac (Training Wireframe)"
+    },
+    {
+      "name": "Little Mac (Training)"
+    },
+    {
+      "name": "Little Mac (Victory)"
+    },
+    {
+      "name": "Little Mac (Wireframe)"
+    },
+    {
+      "name": "Little Mac (World Circuit)"
+    },
+    {
+      "name": "Lucario"
+    },
+    {
+      "name": "Lucario (Green)"
+    },
+    {
+      "name": "Lucario (Grey)"
+    },
+    {
+      "name": "Lucario (Navy)"
+    },
+    {
+      "name": "Lucario (Pink)"
+    },
+    {
+      "name": "Lucario (Purple)"
+    },
+    {
+      "name": "Lucario (Riolu)"
+    },
+    {
+      "name": "Lucario (Teal)"
+    },
+    {
+      "name": "Lucas"
+    },
+    {
+      "name": "Lucas (Blue)"
+    },
+    {
+      "name": "Lucas (Boney)"
+    },
+    {
+      "name": "Lucas (Claus)"
+    },
+    {
+      "name": "Lucas (Drago)"
+    },
+    {
+      "name": "Lucas (Duster)"
+    },
+    {
+      "name": "Lucas (Masked Man)"
+    },
+    {
+      "name": "Lucas (Red)"
+    },
+    {
+      "name": "Lucina"
+    },
+    {
+      "name": "Lucina (Cherche)"
+    },
+    {
+      "name": "Lucina (Cordelia)"
+    },
+    {
+      "name": "Lucina (Lissa)"
+    },
+    {
+      "name": "Lucina (Nowi)"
+    },
+    {
+      "name": "Lucina (Sumia)"
+    },
+    {
+      "name": "Lucina (Tharja)"
+    },
+    {
+      "name": "Lucina (Tiki)"
+    },
+    {
+      "name": "Luigi"
+    },
+    {
+      "name": "Luigi (Atari)"
+    },
+    {
+      "name": "Luigi (DK Jr Mario)"
+    },
+    {
+      "name": "Luigi (Fire Luigi)"
+    },
+    {
+      "name": "Luigi (Pinball)"
+    },
+    {
+      "name": "Luigi (Strawberry Luigi)"
+    },
+    {
+      "name": "Luigi (US Mario Bros boxart)"
+    },
+    {
+      "name": "Luigi (Waluigi)"
+    },
+    {
+      "name": "Mario (Builder)"
+    },
+    {
+      "name": "Mario (Cotton Candy)"
+    },
+    {
+      "name": "Mario (Foreman Spike)"
+    },
+    {
+      "name": "Mario (Luigi)"
+    },
+    {
+      "name": "Mario (Red)"
+    },
+    {
+      "name": "Mario (Striped)"
+    },
+    {
+      "name": "Mario (Waluigi)"
+    },
+    {
+      "name": "Mario (Wedding)"
+    },
+    {
+      "name": "Marth (Allied Unit)"
+    },
+    {
+      "name": "Marth (Camus)"
+    },
+    {
+      "name": "Marth (Enemy Unit)"
+    },
+    {
+      "name": "Marth (Leif)"
+    },
+    {
+      "name": "Marth (Lord)"
+    },
+    {
+      "name": "Marth (Mystery of the Emblem)"
+    },
+    {
+      "name": "Marth (Roy Yellow)"
+    },
+    {
+      "name": "Marth (Shadow Dragon artwork)"
+    },
+    {
+      "name": "Mega Man"
+    },
+    {
+      "name": "Mega Man (Air Shooter)"
+    },
+    {
+      "name": "Mega Man (Flame Blast)"
+    },
+    {
+      "name": "Mega Man (Leaf Shield)"
+    },
+    {
+      "name": "Mega Man (Metal Blade)"
+    },
+    {
+      "name": "Mega Man (Rush)"
+    },
+    {
+      "name": "Mega Man (Slash Claw)"
+    },
+    {
+      "name": "Mega Man (Thunder Beam)"
+    },
+    {
+      "name": "Meta Knight"
+    },
+    {
+      "name": "Meta Knight (Air Ride Bronze)"
+    },
+    {
+      "name": "Meta Knight (Air Ride Green)"
+    },
+    {
+      "name": "Meta Knight (Air Ride Pink)"
+    },
+    {
+      "name": "Meta Knight (Air Ride White)"
+    },
+    {
+      "name": "Meta Knight (Dark Meta Knight)"
+    },
+    {
+      "name": "Meta Knight (Galacta Knight)"
+    },
+    {
+      "name": "Meta Knight (Parallel Meta Knight)"
+    },
+    {
+      "name": "Mewtwo"
+    },
+    {
+      "name": "Mewtwo (Artwork)"
+    },
+    {
+      "name": "Mewtwo (Brown)"
+    },
+    {
+      "name": "Mewtwo (GSC Shiny)"
+    },
+    {
+      "name": "Mewtwo (Pokemon Stadium Blue)"
+    },
+    {
+      "name": "Mewtwo (Pokemon Stadium Orange)"
+    },
+    {
+      "name": "Mewtwo (Shadow Lugia)"
+    },
+    {
+      "name": "Mewtwo (Shiny)"
+    },
+    {
+      "name": "Mr. Game & Watch"
+    },
+    {
+      "name": "Mr. Game & Watch (Blue)"
+    },
+    {
+      "name": "Mr. Game & Watch (Game Boy Light)"
+    },
+    {
+      "name": "Mr. Game & Watch (Game Boy)"
+    },
+    {
+      "name": "Mr. Game & Watch (Green)"
+    },
+    {
+      "name": "Mr. Game & Watch (LCD)"
+    },
+    {
+      "name": "Mr. Game & Watch (Teal)"
+    },
+    {
+      "name": "Mr. Game & Watch (Virtual Boy)"
+    },
+    {
+      "name": "Ness"
+    },
+    {
+      "name": "Ness (Everdred)"
+    },
+    {
+      "name": "Ness (Fuel)"
+    },
+    {
+      "name": "Ness (Gigantic Ant)"
+    },
+    {
+      "name": "Ness (Master Belch)"
+    },
+    {
+      "name": "Ness (Menu)"
+    },
+    {
+      "name": "Ness (Mr. Saturn)"
+    },
+    {
+      "name": "Ness (Young Ness)"
+    },
+    {
+      "name": "Olimar"
+    },
+    {
+      "name": "Olimar (Green)"
+    },
+    {
+      "name": "Olimar (Louie)"
+    },
+    {
+      "name": "Olimar (Red)"
+    },
+    {
+      "name": "Pac-Man"
+    },
+    {
+      "name": "Pac-Man (Black)"
+    },
+    {
+      "name": "Pac-Man (Oven Mitts)"
+    },
+    {
+      "name": "Pac-Man (Purple)"
+    },
+    {
+      "name": "Pac-Man (Red)"
+    },
+    {
+      "name": "Pac-Man (Wing Shoes Blue)"
+    },
+    {
+      "name": "Pac-Man (Wing Shoes White)"
+    },
+    {
+      "name": "Pac-Man (Yellow)"
+    },
+    {
+      "name": "Palutena"
+    },
+    {
+      "name": "Palutena (Amazon Pandora)"
+    },
+    {
+      "name": "Palutena (Blue)"
+    },
+    {
+      "name": "Palutena (Dark Pit)"
+    },
+    {
+      "name": "Palutena (Kid Icarus Instruction Booklet)"
+    },
+    {
+      "name": "Palutena (Kid Icarus)"
+    },
+    {
+      "name": "Palutena (Medusa)"
+    },
+    {
+      "name": "Palutena (Viridi)"
+    },
+    {
+      "name": "Peach"
+    },
+    {
+      "name": "Peach (Black Tea)"
+    },
+    {
+      "name": "Peach (Gold Mario)"
+    },
+    {
+      "name": "Peach (Mario Golf Blue)"
+    },
+    {
+      "name": "Peach (Mario Golf Green)"
+    },
+    {
+      "name": "Peach (Pauline)"
+    },
+    {
+      "name": "Peach (Super Mario Bros)"
+    },
+    {
+      "name": "Peach (Wedding)"
+    },
+    {
+      "name": "Pichu"
+    },
+    {
+      "name": "Pichu (Flower)"
+    },
+    {
+      "name": "Pichu (Focus Band)"
+    },
+    {
+      "name": "Pichu (Red Neckerchief)"
+    },
+    {
+      "name": "Pichu (Spiky-eared Pichu)"
+    },
+    {
+      "name": "Pichu (Swimmer)"
+    },
+    {
+      "name": "Pichu (Team Aqua)"
+    },
+    {
+      "name": "Pichu (Team Skull)"
+    },
+    {
+      "name": "Pikachu"
+    },
+    {
+      "name": "Pikachu (Brendan)"
+    },
+    {
+      "name": "Pikachu (Calem)"
+    },
+    {
+      "name": "Pikachu (Classic)"
+    },
+    {
+      "name": "Pikachu (Ethan)"
+    },
+    {
+      "name": "Pikachu (Libre)"
+    },
+    {
+      "name": "Pikachu (Party Hat)"
+    },
+    {
+      "name": "Pikachu (Selene)"
+    },
+    {
+      "name": "Pikachu (Truckerchu)"
+    },
+    {
+      "name": "Piranha Plant"
+    },
+    {
+      "name": "Piranha Plant (Blue Cave Piranha Plant)"
+    },
+    {
+      "name": "Piranha Plant (Bone Piranha Plant)"
+    },
+    {
+      "name": "Piranha Plant (Inky Piranha Plant)"
+    },
+    {
+      "name": "Piranha Plant (Original)"
+    },
+    {
+      "name": "Piranha Plant (Piranha Creeper)"
+    },
+    {
+      "name": "Piranha Plant (Spiny Piranha Plant)"
+    },
+    {
+      "name": "Piranha Plant (Wild Ptooie)"
+    },
+    {
+      "name": "Pit"
+    },
+    {
+      "name": "Pit (Bronze Arrow Green)"
+    },
+    {
+      "name": "Pit (Fallen Angel)"
+    },
+    {
+      "name": "Pit (Gold Arrow Red)"
+    },
+    {
+      "name": "Pit (Pink)"
+    },
+    {
+      "name": "Pit (Putto)"
+    },
+    {
+      "name": "Pit (Sacred Arrow Blue)"
+    },
+    {
+      "name": "Pit (Yellow)"
+    },
+    {
+      "name": "Pokémon Trainer (Calem)"
+    },
+    {
+      "name": "Pokémon Trainer (Ethan)"
+    },
+    {
+      "name": "Pokémon Trainer (FireRed/LeafGreen Female)"
+    },
+    {
+      "name": "Pokémon Trainer (FireRed/LeafGreen Male)"
+    },
+    {
+      "name": "Pokémon Trainer (Hilda)"
+    },
+    {
+      "name": "Pokémon Trainer (Lucas)"
+    },
+    {
+      "name": "Pokémon Trainer (May)"
+    },
+    {
+      "name": "Pokémon Trainer (Selene)"
+    },
+    {
+      "name": "R.O.B. (Cobalt Blue GBA:SP)"
+    },
+    {
+      "name": "R.O.B. (Famicon)"
+    },
+    {
+      "name": "R.O.B. (Flipper)"
+    },
+    {
+      "name": "R.O.B. (Laucher)"
+    },
+    {
+      "name": "R.O.B. (NES)"
+    },
+    {
+      "name": "R.O.B. (Pearl Blue GBA:SP)"
+    },
+    {
+      "name": "R.O.B. (Spike)"
+    },
+    {
+      "name": "R.O.B. (Virtual Boy)"
+    },
+    {
+      "name": "Richter (Alucard)"
+    },
+    {
+      "name": "Richter (Cursed)"
+    },
+    {
+      "name": "Richter (Dark Priest Shaft)"
+    },
+    {
+      "name": "Richter (Julius Belmont)"
+    },
+    {
+      "name": "Richter (Juste Belmont)"
+    },
+    {
+      "name": "Richter (Leon Belmont)"
+    },
+    {
+      "name": "Richter (Rondo of Blood)"
+    },
+    {
+      "name": "Richter (Symphony of the Night)"
+    },
+    {
+      "name": "Ridley (American Boxart)"
+    },
+    {
+      "name": "Ridley (Golden Statue)"
+    },
+    {
+      "name": "Ridley (Mecha Ridley)"
+    },
+    {
+      "name": "Ridley (Meta Ridley)"
+    },
+    {
+      "name": "Ridley (Metroid 1)"
+    },
+    {
+      "name": "Ridley (Metroid: Zero Mission)"
+    },
+    {
+      "name": "Ridley (Neo-Ridley)"
+    },
+    {
+      "name": "Ridley (Super Metroid)"
+    },
+    {
+      "name": "Robin (Anna)"
+    },
+    {
+      "name": "Robin (Eyvel)"
+    },
+    {
+      "name": "Robin (Female)"
+    },
+    {
+      "name": "Robin (Kris)"
+    },
+    {
+      "name": "Robin (Male)"
+    },
+    {
+      "name": "Robin (Mark)"
+    },
+    {
+      "name": "Robin (Serra)"
+    },
+    {
+      "name": "Robin (White Mage)"
+    },
+    {
+      "name": "Rosalina & Luma (Black)"
+    },
+    {
+      "name": "Rosalina & Luma (Cyan)"
+    },
+    {
+      "name": "Rosalina & Luma (Fire Rosalina)"
+    },
+    {
+      "name": "Rosalina & Luma (Green)"
+    },
+    {
+      "name": "Rosalina & Luma (Pink)"
+    },
+    {
+      "name": "Rosalina & Luma (Purple)"
+    },
+    {
+      "name": "Rosalina & Luma (Super Mario Bros. Peach)"
+    },
+    {
+      "name": "Rosalina & Luma (Yellow)"
+    },
+    {
+      "name": "Roy (Allied Units)"
+    },
+    {
+      "name": "Roy (Cecilia)"
+    },
+    {
+      "name": "Roy (Eliwood)"
+    },
+    {
+      "name": "Roy (Enemy Units)"
+    },
+    {
+      "name": "Roy (Fire Emblem: The Binding Blade)"
+    },
+    {
+      "name": "Roy (Golden)"
+    },
+    {
+      "name": "Roy (Marcus)"
+    },
+    {
+      "name": "Roy (Zephiel)"
+    },
+    {
+      "name": "Ryu (Heavy Kick)"
+    },
+    {
+      "name": "Ryu (Heavy Punch)"
+    },
+    {
+      "name": "Ryu (Light Kick)"
+    },
+    {
+      "name": "Ryu (Light Punch)"
+    },
+    {
+      "name": "Ryu (Medium Kick)"
+    },
+    {
+      "name": "Ryu (Medium Punch)"
+    },
+    {
+      "name": "Ryu (Purple)"
+    },
+    {
+      "name": "Ryu (White)"
+    },
+    {
+      "name": "Samus (Dark Suit)"
+    },
+    {
+      "name": "Samus (Fusion Suit)"
+    },
+    {
+      "name": "Samus (Gravity Suit)"
+    },
+    {
+      "name": "Samus (Light Suit)"
+    },
+    {
+      "name": "Samus (Mass-Produced)"
+    },
+    {
+      "name": "Samus (Missiles)"
+    },
+    {
+      "name": "Samus (Power Trooper)"
+    },
+    {
+      "name": "Samus (Varia Suit)"
+    },
+    {
+      "name": "Sheik (Black Dye)"
+    },
+    {
+      "name": "Sheik (Green Dye)"
+    },
+    {
+      "name": "Sheik (Ocarina of Time)"
+    },
+    {
+      "name": "Sheik (Purple Dye)"
+    },
+    {
+      "name": "Sheik (Red Dye)"
+    },
+    {
+      "name": "Sheik (Stealth Set)"
+    },
+    {
+      "name": "Sheik (White)"
+    },
+    {
+      "name": "Sheik (Yellow Dye)"
+    },
+    {
+      "name": "Shulk"
+    },
+    {
+      "name": "Shulk (Dunban)"
+    },
+    {
+      "name": "Shulk (Mecha-Fiora)"
+    },
+    {
+      "name": "Shulk (Melia)"
+    },
+    {
+      "name": "Shulk (Reyn)"
+    },
+    {
+      "name": "Shulk (Riki)"
+    },
+    {
+      "name": "Shulk (Sharla)"
+    },
+    {
+      "name": "Shulk (Swimsuit)"
+    },
+    {
+      "name": "Simon (Castlevania)"
+    },
+    {
+      "name": "Simon (Doppelganger)"
+    },
+    {
+      "name": "Simon (Grimoire of Souls)"
+    },
+    {
+      "name": "Simon (Japanese boxart)"
+    },
+    {
+      "name": "Simon (Simon's Quest)"
+    },
+    {
+      "name": "Simon (Trevor Belmont's Doppelganger)"
+    },
+    {
+      "name": "Simon (Vampire Killer)"
+    },
+    {
+      "name": "Simon (Western boxart)"
+    },
+    {
+      "name": "Snake (Animals camouflage)"
+    },
+    {
+      "name": "Snake (Fire camouflage)"
+    },
+    {
+      "name": "Snake (Leaf camouflage)"
+    },
+    {
+      "name": "Snake (Metal camouflage)"
+    },
+    {
+      "name": "Snake (Sneaking Suit)"
+    },
+    {
+      "name": "Snake (Splitter camouflage)"
+    },
+    {
+      "name": "Snake (Tiger Stripe camouflage)"
+    },
+    {
+      "name": "Snake (Water camouflage)"
+    },
+    {
+      "name": "Sonic"
+    },
+    {
+      "name": "Sonic (Classic)"
+    },
+    {
+      "name": "Sonic (Dark Sonic)"
+    },
+    {
+      "name": "Sonic (Green)"
+    },
+    {
+      "name": "Sonic (NiGHTS)"
+    },
+    {
+      "name": "Sonic (Orange)"
+    },
+    {
+      "name": "Sonic (Silver the Hedgehog)"
+    },
+    {
+      "name": "Sonic (Yellow)"
+    },
+    {
+      "name": "Toon Link (A Link to the Past)"
+    },
+    {
+      "name": "Toon Link (Blue Ring)"
+    },
+    {
+      "name": "Toon Link (Classic)"
+    },
+    {
+      "name": "Toon Link (Dark Link)"
+    },
+    {
+      "name": "Toon Link (Four Swords: Blue)"
+    },
+    {
+      "name": "Toon Link (Four Swords: Purple)"
+    },
+    {
+      "name": "Toon Link (Four Swords: Red)"
+    },
+    {
+      "name": "Toon Link (Wind Waker)"
+    },
+    {
+      "name": "Villager (Blue Tie-Dye)"
+    },
+    {
+      "name": "Villager (Daisy)"
+    },
+    {
+      "name": "Villager (Four-ball)"
+    },
+    {
+      "name": "Villager (No. 1)"
+    },
+    {
+      "name": "Villager (Racer 6)"
+    },
+    {
+      "name": "Villager (Rugby)"
+    },
+    {
+      "name": "Villager (Turnip Top)"
+    },
+    {
+      "name": "Villager (Yellow Bolero)"
+    },
+    {
+      "name": "Wario (Biker)"
+    },
+    {
+      "name": "Wario (Classic)"
+    },
+    {
+      "name": "Wario (Donkey Kong Mario)"
+    },
+    {
+      "name": "Wario (Green Biker)"
+    },
+    {
+      "name": "Wario (Mario Bros Boxart)"
+    },
+    {
+      "name": "Wario (Red Biker)"
+    },
+    {
+      "name": "Wario (Wrecking Crew Boxart)"
+    },
+    {
+      "name": "Wario (Yellow Biker)"
+    },
+    {
+      "name": "Wii Fit Trainer (Aerobics Female)"
+    },
+    {
+      "name": "Wii Fit Trainer (Aerobics Male)"
+    },
+    {
+      "name": "Wii Fit Trainer (Balance Female)"
+    },
+    {
+      "name": "Wii Fit Trainer (Balance Male)"
+    },
+    {
+      "name": "Wii Fit Trainer (Female)"
+    },
+    {
+      "name": "Wii Fit Trainer (Male)"
+    },
+    {
+      "name": "Wii Fit Trainer (Wii Fit U Female)"
+    },
+    {
+      "name": "Wii Fit Trainer (Wii Fit U Male)"
+    },
+    {
+      "name": "Wolf (Andrew Oikonny)"
+    },
+    {
+      "name": "Wolf (Dark Wolf)"
+    },
+    {
+      "name": "Wolf (Orange)"
+    },
+    {
+      "name": "Wolf (Pigma Dengar)"
+    },
+    {
+      "name": "Wolf (Player 2)"
+    },
+    {
+      "name": "Wolf (Player 4)"
+    },
+    {
+      "name": "Wolf (Star Fox Zero)"
+    },
+    {
+      "name": "Wolf (Starlink: Battle for Atlas)"
+    },
+    {
+      "name": "Yoshi (Amsa)"
+    },
+    {
+      "name": "Yoshi (Blue)"
+    },
+    {
+      "name": "Yoshi (Crafted)"
+    },
+    {
+      "name": "Yoshi (Green)"
+    },
+    {
+      "name": "Yoshi (Light Blue)"
+    },
+    {
+      "name": "Yoshi (Pink)"
+    },
+    {
+      "name": "Yoshi (Purple)"
+    },
+    {
+      "name": "Yoshi (Yellow)"
+    },
+    {
+      "name": "Young Link (Blue Ring)"
+    },
+    {
+      "name": "Young Link (Cyan)"
+    },
+    {
+      "name": "Young Link (Dark Link)"
+    },
+    {
+      "name": "Young Link (Goron Tunic)"
+    },
+    {
+      "name": "Young Link (Ocarina of Time)"
+    },
+    {
+      "name": "Young Link (Orange)"
+    },
+    {
+      "name": "Young Link (Pink)"
+    },
+    {
+      "name": "Young Link (Zora Tunic)"
+    },
+    {
+      "name": "Zelda (A Link to the Past)"
+    },
+    {
+      "name": "Zelda (Casual)"
+    },
+    {
+      "name": "Zelda (Dark Zelda)"
+    },
+    {
+      "name": "Zelda (No Ring)"
+    },
+    {
+      "name": "Zelda (Ocarina of Time Adult)"
+    },
+    {
+      "name": "Zelda (Red Ring)"
+    },
+    {
+      "name": "Zelda (Skyward Sword)"
+    },
+    {
+      "name": "Zelda (Twilight Princess)"
+    },
+    {
+      "name": "Zero Suit Samus (Green)"
+    },
+    {
+      "name": "Zero Suit Samus (Leotard)"
+    },
+    {
+      "name": "Zero Suit Samus (Metroid Fusion Ending)"
+    },
+    {
+      "name": "Zero Suit Samus (Metroid Fusion)"
+    },
+    {
+      "name": "Zero Suit Samus (Other M)"
+    },
+    {
+      "name": "Zero Suit Samus (Super Metroid)"
+    },
+    {
+      "name": "Zero Suit Samus (Zero Mission)"
+    },
+    {
+      "name": "Zero Suit Samus (Zero Suit)"
+    }
+  ]
+}

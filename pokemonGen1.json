@@ -1,0 +1,458 @@
+{
+  "name": "pokemonGen1",
+  "items": [
+    {
+      "name": "Abra"
+    },
+    {
+      "name": "Aerodactyl"
+    },
+    {
+      "name": "Alakazam"
+    },
+    {
+      "name": "Arbok"
+    },
+    {
+      "name": "Arcanine"
+    },
+    {
+      "name": "Articuno"
+    },
+    {
+      "name": "Beedrill"
+    },
+    {
+      "name": "Bellsprout"
+    },
+    {
+      "name": "Blastoise"
+    },
+    {
+      "name": "Bulbasaur"
+    },
+    {
+      "name": "Butterfree"
+    },
+    {
+      "name": "Caterpie"
+    },
+    {
+      "name": "Chansey"
+    },
+    {
+      "name": "Charizard"
+    },
+    {
+      "name": "Charmander"
+    },
+    {
+      "name": "Charmeleon"
+    },
+    {
+      "name": "Clefable"
+    },
+    {
+      "name": "Clefairy"
+    },
+    {
+      "name": "Cloyster"
+    },
+    {
+      "name": "Cubone"
+    },
+    {
+      "name": "Dewgong"
+    },
+    {
+      "name": "Diglett"
+    },
+    {
+      "name": "Ditto"
+    },
+    {
+      "name": "Dodrio"
+    },
+    {
+      "name": "Doduo"
+    },
+    {
+      "name": "Dragonair"
+    },
+    {
+      "name": "Dragonite"
+    },
+    {
+      "name": "Dratini"
+    },
+    {
+      "name": "Drowzee"
+    },
+    {
+      "name": "Dugtrio"
+    },
+    {
+      "name": "Eevee"
+    },
+    {
+      "name": "Ekans"
+    },
+    {
+      "name": "Electabuzz"
+    },
+    {
+      "name": "Electrode"
+    },
+    {
+      "name": "Exeggcute"
+    },
+    {
+      "name": "Exeggutor"
+    },
+    {
+      "name": "Farfetch’d"
+    },
+    {
+      "name": "Fearow"
+    },
+    {
+      "name": "Flareon"
+    },
+    {
+      "name": "Gastly"
+    },
+    {
+      "name": "Gengar"
+    },
+    {
+      "name": "Geodude"
+    },
+    {
+      "name": "Gloom"
+    },
+    {
+      "name": "Golbat"
+    },
+    {
+      "name": "Goldeen"
+    },
+    {
+      "name": "Golduck"
+    },
+    {
+      "name": "Golem"
+    },
+    {
+      "name": "Graveler"
+    },
+    {
+      "name": "Grimer"
+    },
+    {
+      "name": "Growlithe"
+    },
+    {
+      "name": "Gyarados"
+    },
+    {
+      "name": "Haunter"
+    },
+    {
+      "name": "Hitmonchan"
+    },
+    {
+      "name": "Hitmonlee"
+    },
+    {
+      "name": "Horsea"
+    },
+    {
+      "name": "Hypno"
+    },
+    {
+      "name": "Ivysaur"
+    },
+    {
+      "name": "Jigglypuff"
+    },
+    {
+      "name": "Jolteon"
+    },
+    {
+      "name": "Jynx"
+    },
+    {
+      "name": "Kabuto"
+    },
+    {
+      "name": "Kabutops"
+    },
+    {
+      "name": "Kadabra"
+    },
+    {
+      "name": "Kakuna"
+    },
+    {
+      "name": "Kangaskhan"
+    },
+    {
+      "name": "Kingler"
+    },
+    {
+      "name": "Koffing"
+    },
+    {
+      "name": "Krabby"
+    },
+    {
+      "name": "Lapras"
+    },
+    {
+      "name": "Lickitung"
+    },
+    {
+      "name": "Machamp"
+    },
+    {
+      "name": "Machoke"
+    },
+    {
+      "name": "Machop"
+    },
+    {
+      "name": "Magikarp"
+    },
+    {
+      "name": "Magmar"
+    },
+    {
+      "name": "Magnemite"
+    },
+    {
+      "name": "Magneton"
+    },
+    {
+      "name": "Mankey"
+    },
+    {
+      "name": "Marowak"
+    },
+    {
+      "name": "Meowth"
+    },
+    {
+      "name": "Metapod"
+    },
+    {
+      "name": "Mew"
+    },
+    {
+      "name": "Mewtwo"
+    },
+    {
+      "name": "Moltres"
+    },
+    {
+      "name": "Mr. Mime"
+    },
+    {
+      "name": "Muk"
+    },
+    {
+      "name": "Nidoking"
+    },
+    {
+      "name": "Nidoqueen"
+    },
+    {
+      "name": "Nidoran♀"
+    },
+    {
+      "name": "Nidoran♂"
+    },
+    {
+      "name": "Nidorina"
+    },
+    {
+      "name": "Nidorino"
+    },
+    {
+      "name": "Ninetales"
+    },
+    {
+      "name": "Oddish"
+    },
+    {
+      "name": "Omanyte"
+    },
+    {
+      "name": "Omastar"
+    },
+    {
+      "name": "Onix"
+    },
+    {
+      "name": "Paras"
+    },
+    {
+      "name": "Parasect"
+    },
+    {
+      "name": "Persian"
+    },
+    {
+      "name": "Pidgeot"
+    },
+    {
+      "name": "Pidgeotto"
+    },
+    {
+      "name": "Pidgey"
+    },
+    {
+      "name": "Pikachu"
+    },
+    {
+      "name": "Pinsir"
+    },
+    {
+      "name": "Poliwag"
+    },
+    {
+      "name": "Poliwhirl"
+    },
+    {
+      "name": "Poliwrath"
+    },
+    {
+      "name": "Ponyta"
+    },
+    {
+      "name": "Porygon"
+    },
+    {
+      "name": "Primeape"
+    },
+    {
+      "name": "Psyduck"
+    },
+    {
+      "name": "Raichu"
+    },
+    {
+      "name": "Rapidash"
+    },
+    {
+      "name": "Raticate"
+    },
+    {
+      "name": "Rattata"
+    },
+    {
+      "name": "Rhydon"
+    },
+    {
+      "name": "Rhyhorn"
+    },
+    {
+      "name": "Sandshrew"
+    },
+    {
+      "name": "Sandslash"
+    },
+    {
+      "name": "Scyther"
+    },
+    {
+      "name": "Seadra"
+    },
+    {
+      "name": "Seaking"
+    },
+    {
+      "name": "Seel"
+    },
+    {
+      "name": "Shellder"
+    },
+    {
+      "name": "Slowbro"
+    },
+    {
+      "name": "Slowpoke"
+    },
+    {
+      "name": "Snorlax"
+    },
+    {
+      "name": "Spearow"
+    },
+    {
+      "name": "Squirtle"
+    },
+    {
+      "name": "Starmie"
+    },
+    {
+      "name": "Staryu"
+    },
+    {
+      "name": "Tangela"
+    },
+    {
+      "name": "Tauros"
+    },
+    {
+      "name": "Tentacool"
+    },
+    {
+      "name": "Tentacruel"
+    },
+    {
+      "name": "Vaporeon"
+    },
+    {
+      "name": "Venomoth"
+    },
+    {
+      "name": "Venonat"
+    },
+    {
+      "name": "Venusaur"
+    },
+    {
+      "name": "Victreebel"
+    },
+    {
+      "name": "Vileplume"
+    },
+    {
+      "name": "Voltorb"
+    },
+    {
+      "name": "Vulpix"
+    },
+    {
+      "name": "Wartortle"
+    },
+    {
+      "name": "Weedle"
+    },
+    {
+      "name": "Weepinbell"
+    },
+    {
+      "name": "Weezing"
+    },
+    {
+      "name": "Wigglytuff"
+    },
+    {
+      "name": "Zapdos"
+    },
+    {
+      "name": "Zubat"
+    }
+  ]
+}
