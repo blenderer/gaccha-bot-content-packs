@@ -15,7 +15,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "update": "node ./scripts/update.js"
+    "write": "node ./scripts/write.js"
   },
   "repository": {
     "type": "git",

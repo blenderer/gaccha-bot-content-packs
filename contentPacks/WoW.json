@@ -1,0 +1,14 @@
+{
+  "name": "WoW",
+  "items": [
+    { "name": "Warrior", "rarity": 0 },
+    { "name": "Priest", "rarity": 1 },
+    { "name": "Hunter", "rarity": 2 },
+    { "name": "Rogue", "rarity": 3 },
+    { "name": "Druid", "rarity": 4 },
+    { "name": "Mage", "rarity": 0 },
+    { "name": "Warlock", "rarity": 1 },
+    { "name": "Paladin", "rarity": 1 },
+    { "name": "Shaman", "rarity": 2 }
+  ]
+}
