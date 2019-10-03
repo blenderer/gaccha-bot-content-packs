@@ -1,0 +1,30 @@
+{
+  "name": "gaccha-bot-content-packs",
+  "version": "1.0.0",
+  "description": "data repo for gacchabot",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^5.11.1",
+    "firebase-admin": "^7.3.0",
+    "firebase-key": "^2.0.2",
+    "lodash": "^4.17.15",
+    "dotenv": "^8.0.0"
+  },
+  "devDependencies": {
+    "prettier": "1.17.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node ./scripts/update.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blenderer/gaccha-bot-content-packs.git"
+  },
+  "author": "@blenderer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blenderer/gaccha-bot-content-packs/issues"
+  },
+  "homepage": "https://github.com/blenderer/gaccha-bot-content-packs#readme"
+}
