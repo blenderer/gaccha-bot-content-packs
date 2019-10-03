@@ -46,6 +46,7 @@ fileData.items.forEach((fileItem => {
 }));
 
 const fireData = {
+  rarityTiers: fileData.rarityTiers,
   items: contentItems,
   rarityCache,
 }

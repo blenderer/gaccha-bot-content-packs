@@ -1,5 +1,6 @@
 {
   "name": "WoW",
+  "rarityTiers": 5, 
   "items": [
     { "name": "Warrior", "rarity": 0 },
     { "name": "Priest", "rarity": 1 },
