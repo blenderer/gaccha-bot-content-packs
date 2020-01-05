@@ -1,5 +1,6 @@
 {
   "name": "smashUltimate",
+  "rarityMode": "randomTier",
   "items": [
     {
       "name": "Alph"
@@ -1587,6 +1588,30 @@
     },
     {
       "name": "Sonic (Yellow)"
+    },
+    {
+      "name": "Terry"
+    },
+    {
+      "name": "Terry (Alt Blue)"
+    },
+    {
+      "name": "Terry (KoF XII)"
+    },
+    {
+      "name": "Terry (KoF 2002 alt)"
+    },
+    {
+      "name": "Terry (NEO GEO)"
+    },
+    {
+      "name": "Terry (KoF 98)"
+    },
+    {
+      "name": "Terry (KoF XIV)"
+    },
+    {
+      "name": "Terry (HUNGRY WOLF)"
     },
     {
       "name": "Toon Link (A Link to the Past)"

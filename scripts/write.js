@@ -19,13 +19,24 @@ const fileString = fs.readFileSync(`./contentPacks/${contentPackName}.json`, {
 const fileData = JSON.parse(fileString);
 
 const contentItems = fileData.items.reduce(
-  (items, fileItem) => ({
-    ...items,
-    [fk.encode(fileItem.name)]: {
-      name: fileItem.name,
-      rarity: fileItem.rarity,
-    },
-  }),
+  (items, fileItem) => {
+    const key = fk.encode(fileItem.name);
+    let item = {
+      name: fileItem.name
+    };
+
+    if (fileData.rarityMode === 'static') {
+      item = {
+        ...item,
+        rarity: fileItem.rarity,
+      }
+    }
+
+    return {
+      ...items,
+      [key]: item
+    }
+  },
   {}
 );
 
@@ -37,15 +48,30 @@ const rarityCache = {
   4: {},
 };
 
-fileData.items.forEach(fileItem => {
-  rarityCache[fileItem.rarity][fk.encode(fileItem.name)] = true;
-});
+if (fileData.rarityMode === 'static') {
+  fileData.items.forEach(fileItem => {
+    rarityCache[fileItem.rarity][fk.encode(fileItem.name)] = true;
+  });
+}
 
-const fireData = {
-  rarityTiers: fileData.rarityTiers,
+let fireData = {
   items: contentItems,
-  rarityCache,
 };
+
+if (fileData.rarityMode) {
+  fireData = {
+    ...fireData,
+    rarityMode: fileData.rarityMode,
+  };
+}
+
+if (fileData.rarityMode === 'static') {
+  fireData = {
+    ...fireData,
+    rarityTiers: fileData.rarityTiers,
+    rarityCache,
+  }
+}
 
 admin.initializeApp({
   credential: admin.credential.applicationDefault(),
@@ -64,6 +90,7 @@ async function run() {
 
   // dry run
   if (!shouldExecute) {
+    console.log(contentPack)
     return console.log(diff(fireData, contentPack))
   }
 
